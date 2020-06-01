@@ -1,9 +1,6 @@
 
 import com.zielsmart.zeus.net.model.NetRequest
 
-int add(int a,int b){
-    return a+b;
-}
 void logInfo(){
 
     NetRequest netRequest = new NetRequest();
